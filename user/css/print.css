@@ -1,0 +1,7 @@
+/* below line is used for online google font */
+
+@media print {
+.panel-body {left: 0;  position: absolute; top: 0;}
+    
+
+}
